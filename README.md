@@ -44,18 +44,19 @@
     </td>
     <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td> -->
+    <br>Redux
+      </td> -->
+  
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
+  <br>Github
+  </td>
+   <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+  </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
