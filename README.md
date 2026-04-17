@@ -34,18 +34,18 @@
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
       <br>Redux
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -60,10 +60,10 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
