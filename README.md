@@ -55,16 +55,17 @@
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br>Git
   </td>
+  
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+  <br>Tailwind
+  </td>
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+  <br>jQuery
+  </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
