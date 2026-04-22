@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Shokirjon
 
-### I'm A Front-End Developer from Uzbekistan 🇺🇿
+### I'm A Front-End Developer from Uzbekistan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Always+learning+new+things" alt="Typing SVG" />
 
